@@ -1,0 +1,5 @@
+F:\Testing\MathTests\obj\Debug\net6.0\MathTests.csproj.AssemblyReference.cache
+F:\Testing\MathTests\obj\Debug\net6.0\MathTests.GeneratedMSBuildEditorConfig.editorconfig
+F:\Testing\MathTests\obj\Debug\net6.0\MathTests.AssemblyInfoInputs.cache
+F:\Testing\MathTests\obj\Debug\net6.0\MathTests.AssemblyInfo.cs
+F:\Testing\MathTests\obj\Debug\net6.0\MathTests.csproj.CoreCompileInputs.cache
